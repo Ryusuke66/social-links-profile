@@ -80,6 +80,7 @@ ul li {
         background: hsl(75, 94%, 57%);
         color: hsl(0, 0%, 12%);
         cursor: pointer;
+        transition: .2s;
     }
 
 }
