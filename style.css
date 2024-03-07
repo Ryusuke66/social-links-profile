@@ -76,4 +76,9 @@ ul li {
         padding: 40px;
     }
 
+    ul li:hover {
+        background: hsl(75, 94%, 57%);
+        color: hsl(0, 0%, 12%);
+    }
+
 }
