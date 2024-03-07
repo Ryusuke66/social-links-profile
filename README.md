@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Social links profile](https://ryusuek66.github.io/social-links-profile)
+- Live Site URL: [Social links profile](https://ryusuke66.github.io/social-links-profile)
 
 ## My process
 
